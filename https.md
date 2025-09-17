@@ -1,4 +1,4 @@
-## HTTPS 的握手过程。
+## HTTPS 的握手过程
 
 首先，要理解 HTTPS 的本质：**HTTP over SSL/TLS**。它是在 HTTP 协议之下、TCP 协议之上加入了一个安全层（SSL/TLS）。我们通常所说的“HTTPS 握手”，其实就是指建立安全连接的 **TLS 握手**。
 
