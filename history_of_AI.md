@@ -473,3 +473,7 @@ ChatGPT 于 2022 年 11 月 30 日上线，标志着人工智能在公众应用�
 + 人工智能的进展
 + 人工智能时间线
 + 机器学习时间线
+
+## 本文翻译自英语Wikipedia原文
+
++ [History of artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
