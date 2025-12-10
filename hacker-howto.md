@@ -38,7 +38,7 @@ Copyright © 2001 Eric S. Raymond
 - [其他资源](#其他资源)
 - [常见问题](#常见问题)
 
-<p style="text-align:center;"> <img  src="http://www.catb.org/~esr/faqs/glider.png"> </p>
+<p style="text-align:center;"> <img  src="image/hacker-howto/glider.png"> </p>
 
 ## 为何会有这篇文档
 
@@ -54,7 +54,7 @@ Copyright © 2001 Eric S. Raymond
 
 如果你觉得这篇文章有价值，请在[Patreon][Patreon]或者[SubscribeStar][SubscribeStar]上给我一点赞助。也请考虑通过[Loadsharers][Loadsharers]赞助其他为你提供了有价值代码的黑客。小额的赞助也能够聚小流成江海，使为你提供帮助的人从繁重的劳动中解放出来，创造更多的价值。
 
-<p style="text-align:center;"> <img  src="http://www.catb.org/~esr/faqs/glider.png"> </p>
+<p style="text-align:center;"> <img  src="image/hacker-howto/glider.png"> </p>
 
 ## 什么是黑客
 
@@ -70,7 +70,7 @@ Copyright © 2001 Eric S. Raymond
 
 如果你想成为一个黑客，请继续读下去。如果你只想做一个Cracker，请到[alt.2600][alt.2600]讨论组，并做好当你发现自己不如想象中聪颖的时候进5到10次监狱的准备。关于Cracker我就说这么多。
 
-<p style="text-align:center;"> <img  src="http://www.catb.org/~esr/faqs/glider.png"> </p>
+<p style="text-align:center;"> <img  src="image/hacker-howto/glider.png"> </p>
 
 ## 黑客的精神
 
@@ -144,7 +144,7 @@ Copyright © 2001 Eric S. Raymond
 
 尊重能力，你就会享受到提高自己的能力所带来的乐趣——辛苦的工作和奉献将不再是苦差而是一种高度娱乐。想要成为一名黑客，这一点尤其重要。
 
-<p style="text-align:center;"> <img  src="http://www.catb.org/~esr/faqs/glider.png"> </p>
+<p style="text-align:center;"> <img  src="image/hacker-howto/glider.png"> </p>
 
 ## 基本黑客技能
 
@@ -237,7 +237,7 @@ Unix是互联网上的操作系统。虽然你不懂Unix仍然可以学会使用
 
 即使作为一个以英语为母语的人也不代表你就具备了成为黑客所需的语言技能。一般而言，如果你写得像个半文盲似的，文中充斥着各种语法、拼写错误，多半得不到理睬。虽然不严谨的文笔并不总是意味着不严谨的思维，但我们发现这两者之间的关联还是挺紧密的。而我们不需要这种思维不严谨的人。如果你现在还没有具备这样的书写能力，赶紧培养。
 
-<p style="text-align:center;"> <img  src="http://www.catb.org/~esr/faqs/glider.png"> </p>
+<p style="text-align:center;"> <img  src="image/hacker-howto/glider.png"> </p>
 
 ## 在黑客社区中立足
 
@@ -289,7 +289,7 @@ Unix是互联网上的操作系统。虽然你不懂Unix仍然可以学会使用
 
 黑客社区没有既定的领导者，但是有被人们尊重的英雄，长老级人物，史学家和发言人。当你在这个圈里足够久，你可能会成为他们中的一员。但请谨记，黑客对于自我夸耀的长老并不认同，因此不要尝试大举追求这种名誉。与其奋力追求，不如先摆正自己的位置，等它自己到你手中，那时需要做到谦虚和优雅。
 
-<p style="text-align:center;"> <img  src="http://www.catb.org/~esr/faqs/glider.png"> </p>
+<p style="text-align:center;"> <img  src="image/hacker-howto/glider.png"> </p>
 
 ## 黑客与书呆子（Nerd）的关系
 
@@ -301,7 +301,7 @@ Unix是互联网上的操作系统。虽然你不懂Unix仍然可以学会使用
 
 如果你因为生活上的不如意而成为黑客，那也不错——至少你不用分神了。或许今后你能有一个不错的生活。
 
-<p style="text-align:center;"> <img  src="http://www.catb.org/~esr/faqs/glider.png"> </p>
+<p style="text-align:center;"> <img  src="image/hacker-howto/glider.png"> </p>
 
 ## 风格
 
@@ -339,7 +339,7 @@ Unix是互联网上的操作系统。虽然你不懂Unix仍然可以学会使用
 
 网名的问题值得深思。将身份隐藏在虚假的名字后是骇客、warez d00dz及其他低等生物幼稚愚蠢的行为特点。黑客不会做这些事；他们对他们所作的感到骄傲，而且乐于人们将作品与他们的 **真名** 相联系。 因此, 若你现在用假名，放弃它。黑客社区里只会将用假名的人视为失败者。
 
-<p style="text-align:center;"> <img  src="http://www.catb.org/~esr/faqs/glider.png"> </p>
+<p style="text-align:center;"> <img  src="image/hacker-howto/glider.png"> </p>
 
 ## 历史记录：黑客活动，开源，和自由软件
 
@@ -357,7 +357,7 @@ Unix是互联网上的操作系统。虽然你不懂Unix仍然可以学会使用
 
 然而，曾经并不是这样，这一点值得我们记住。
 
-<p style="text-align:center;"> <img  src="http://www.catb.org/~esr/faqs/glider.png"> </p>
+<p style="text-align:center;"> <img  src="image/hacker-howto/glider.png"> </p>
 
 ## 其他资源
 
@@ -381,7 +381,7 @@ Rick Moen和我共著了一篇关于[提问的智慧](https://gist.github.com/ze
 
 如果你对禅诗感兴趣，你可能会喜欢[Rootless Root: The Unix Koans of Master Foo](http://catb.org/~esr//writings/unix-koans)。
 
-<p style="text-align:center;"> <img  src="http://www.catb.org/~esr/faqs/glider.png"> </p>
+<p style="text-align:center;"> <img  src="image/hacker-howto/glider.png"> </p>
 
 ## 常见问题
 
