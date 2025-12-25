@@ -6,7 +6,7 @@
 
 ----
 
-我们推出了 Titans 架构和 MIRAS 框架，它们允许 AI 模型在运行过程中更新其核心内存，从而更快地工作并处理海量上下文。
+## 我们推出了 Titans 架构和 MIRAS 框架，它们允许 AI 模型在运行过程中更新其核心内存，从而更快地工作并处理海量上下文。
 
 Transformer[架构](https://en.wikipedia.org/wiki/Transformer_(deep_learning))引入了[注意力](https://en.wikipedia.org/wiki/Attention_%28machine_learning%29)机制，彻底革新了[序列建模。](https://medium.com/machine-learning-basics/sequence-modelling-b2cdf244c233)注意力机制使模型能够回顾早期输入，从而优先处理相关的输入数据。然而，计算成本会随着序列长度的增加而急剧上升，这限制了基于Transformer的模型扩展到超长上下文的能力，例如全文档理解或基因组分析所需的上下文。
 
