@@ -52,14 +52,12 @@ MIRAS 通过四个关键设计选择定义了序列模型：
 
 - *内存架构*：存储信息的结构（例如，向量、矩阵或像 Titans 中的那种深度多层感知器）。
 - *注意力偏差*：模型优化的内部学习目标，决定了模型优先考虑的内容。
-- *记忆保持闸门*：记忆调节器。MIRAS 将“遗忘机制”重新解释为特定的[调节](https://translate.google.com/website?sl=auto&tl=zh-CN&hl=en-US&client=webapp&u=https://dev.to/nareshnishad/day-27-regularization-techniques-for-large-language-models-llms-4af3)形式，以平衡新知识的学习和对过去知识的保留。
+- *记忆保持闸门*：记忆调节器。MIRAS 将“遗忘机制”重新解释为特定的[调节](https://dev.to/nareshnishad/day-27-regularization-techniques-for-large-language-models-llms-4af3)形式，以平衡新知识的学习和对过去知识的保留。
 - *内存算法*：用于更新内存的优化算法。
 
-<video class="glue-ambient-video__container" playsinline="" muted="true" loop="true" style="display: inline-block; vertical-align: baseline; box-sizing: border-box; border-radius: 4px; width: 956px;" src="video/titans-miras/MIRAS_Framework_Animation.mp4"></video>
+<video class="glue-ambient-video__container" playsinline="" muted="true" loop="true" style="display: inline-block; vertical-align: baseline; box-sizing: border-box; border-radius: 4px; width: 956px;" src="https://storage.googleapis.com/gweb-research2023-media/media/MIRAS_Framework_Animation.mp4"></video>
 
-
-
-MIRAS框架概述。在MIRAS框架中，我们的目标是学习一个关联记忆，建立键值对之间的映射关系。对于每个词元，记忆模块会在内部优化其注意力偏差，同时利用其保持门来确保其不会偏离过去的状态。优化过程通过基于梯度的优化器完成。
+*MIRAS框架概述。在MIRAS框架中，我们的目标是学习一个关联记忆，建立键值对之间的映射关系。对于每个词元，记忆模块会在内部优化其注意力偏差，同时利用其保持门来确保其不会偏离过去的状态。优化过程通过基于梯度的优化器完成。*
 
 ----
 
