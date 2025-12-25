@@ -8,3 +8,4 @@
 + [如何成为黑客](hacker-howto.md)
 + [从零开始构建 Transformer 模型](Transformer-from-Scratch.md)
 + [带注释的Transformer](Annotated-Transformer.md)
++ [Titans + MIRAS：帮助人工智能拥有长期记忆](Titans-MIRAS.md)
